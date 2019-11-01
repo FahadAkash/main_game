@@ -22,6 +22,7 @@ use 3 type of scan
 2: Basic_scan
 3: Full_Scan
 ```
+[![asciicast](https://asciinema.org/a/5FBy7s7CJwGu7GkkJEDX9y8P4.svg)](https://asciinema.org/a/5FBy7s7CJwGu7GkkJEDX9y8P4)
 ##List of All Tools
 ```
 1:Nmap
