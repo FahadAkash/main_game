@@ -15,3 +15,26 @@ $ chmod +x main_game.py
 $ pip3 install -r requirements.txt
 $ python3 main_game.py
 ```
+## Usage
+use 3 type of scan 
+```
+1: simple_scan
+2: Basic_scan
+3: Full_Scan
+```
+##List of All Tools
+```
+1:Nmap
+2:Dmitry
+3:golismero
+4:donna
+5:Nikto
+6:Dotdotpwn
+7:osscanner
+8:sidguess
+9:davtest
+10:dirb
+11:gobuster
+12:webshag
+More
+```
