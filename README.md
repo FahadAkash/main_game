@@ -46,3 +46,4 @@ More
 #### Bug Reports & Feature Requests
 
 Please use the [issue tracker](https://github.com/FahadAkash/main_data/issues) to report any bugs or file feature requests.
+or Email Me on {fahadakash@protonmail.com}
