@@ -50,7 +50,7 @@ def go_buster(ip):
 	os.system('gobuster -e -u '+ip+' -w /usr/share/wordlists/dirb/common.txt')
 
 def webshag(ip):
-	os.system('cd ../../data/webshag/')
+	os.system('cd ../../data/webshagt/')
 	os.system('./webshag.py '+ip)
 
 def info_web(url):
