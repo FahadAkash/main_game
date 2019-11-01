@@ -1,5 +1,6 @@
 import os
 from time import sleep
+import sys
 
 checking_tools = """
 
@@ -27,68 +28,71 @@ def namp_checking():
 		print(f'\033[37m1:Checking Nmap {i} \033[36m ok')
 	else:
 		print(f'Checking Nmap{i} \033[31m Not Found')
+		sys.exit()
 
 def dmitry_check():
 	if os.path.isfile('/usr/bin/dmitry') == True:
 		print(f'\033[37m2:Checking Dmitry {i} \033[36m ok')
 	else:
 		print(f'\033[37m2:Checking Dmitry {i} \033[31m Not Found')
-
+		sys.exit()
 
 def glismero_Check():
 	if os.path.isfile('/usr/bin/golismero') == True:
 		print(f'\033[37m3:Checking Golismero {i} \033[36m ok')
 	else:
 		print(f'\033[37m3:Checking Golismero {i} \033[31m Not Found')
-
+		sys.exit()
 def donna_check():
 	if os.path.isfile('/usr/bin/doona') == True:
 		print(f'\033[37m4:Checking Doona {i} \033[36m ok')
 	else:
 		print(f'\033[37m4:Checking Doona {i} \033[31m Not Found')
-
+		sys.exit()
 def nito_Check():
 	if os.path.isfile('/usr/bin/nikto') == True:
 		print(f'\033[37m5:Checking NIkto {i} \033[36m ok')
 	else:
 		print(f'\033[37m5:Checking NIkto {i} \033[31m Not Found')
-
+		sys.exit()
 def dotdot_check():
 	if os.path.isfile('/usr/sbin/dotdotpwn') == True:
 		print(f'\033[37m6:Checking Dotdotpwn {i} \033[36m ok')
 	else:
 		print(f'\033[37m6:Checking Dotdotpwn {i} \033[31m Not Found')
-
+		sys.exit()
 
 def osscanner_check():
 	if os.path.isfile('/usr/bin/oscanner') == True:
 		print(f'\033[37m7:Checking osscanner {i} \033[36m ok')
 	else:
 		print(f'\033[37m7:Checking osscanner {i} \033[31m Not Found')
-
+		sys.exit()
 def sidguess_check():
 	if os.path.isfile('/usr/bin/sidguess') == True:
 		print(f'\033[37m8:Checking sidguess {i} \033[36m ok')
 	else:
 		print(f'\033[37m8:Checking sidguess {i} \033[31m Not Found')
-
+		sys.exit()
 
 def davtest_check():
 	if os.path.isfile('/usr/bin/davtest') == True:
 		print(f'\033[37m9:Checking davtest {i} \033[36m ok')
 	else:
 		print(f'\033[37m9:Checking davtest {i} \033[31m Not Found')
+		sys.exit()
 def dirb_check():
 	if os.path.isfile('/usr/bin/dirb') == True:
 		print(f'\033[37m10:Checking dirb {i} \033[36m ok')
 	else:
 		print(f'\033[37m10:Checking dirb {i} \033[31m Not Found')
+		sys.exit()
 def go_buster():
 	if os.path.isfile('/usr/bin/gobuster') == True:
 		print(f'\033[37m11:Checking gobuster {i} \033[36m ok')
 	else:
 		print(f'\033[37m11:Checking gobuster {i} \033[31m Not Found')
-
+		sys.exit()
 def check():
 	namp_checking()
 	sleep(1)
