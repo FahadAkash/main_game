@@ -6,3 +6,12 @@
 - Scan With Multiple Script
 - Supports  all Distribution linux
 - Works on Mac, Linux and (maybe) Windows
+
+## Install
+```bash
+$ git clone https://github.com/FahadAkash/main_game/
+$ cd main_game
+$ chmod +x main_game.py
+$ pip3 install -r requirements.txt
+$ python3 main_game.py
+```
