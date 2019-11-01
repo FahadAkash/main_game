@@ -39,3 +39,8 @@ use 3 type of scan
 12:webshag
 More
 ```
+## Contributing
+
+#### Bug Reports & Feature Requests
+
+Please use the [issue tracker](https://github.com/FahadAkash/main_data/issues) to report any bugs or file feature requests.
