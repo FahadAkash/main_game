@@ -9,13 +9,18 @@ Simple Tool That Allow You To Scan Website With Multiple script Best For Beginne
 - Supports  all Distribution linux
 - Works on Mac, Linux and (maybe) Windows
 
-## Install
+## Run On Terminal
 ```bash
 $ git clone https://github.com/FahadAkash/main_game/
 $ cd main_game
 $ chmod +x main_game.py
 $ pip3 install -r requirements.txt
 $ python3 main_game.py
+```
+##Install
+```
+$bash install.sh
+$maingame
 ```
 ## Usage
 use 3 type of scan 
