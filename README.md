@@ -17,10 +17,10 @@ $ chmod +x main_game.py
 $ pip3 install -r requirements.txt
 $ python3 main_game.py
 ```
-##Install
+## Install
 ```
-$bash install.sh
-$maingame
+$ bash install.sh
+$ maingame
 ```
 ## Usage
 use 3 type of scan 
