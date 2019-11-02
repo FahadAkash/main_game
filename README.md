@@ -1,7 +1,7 @@
 # main_game
 Simple Tool That Allow You To Scan Website With Multiple script Best For Beginner's
 
-![](https://art.pixilart.com/056b06fa01ec6ec.gif)
+![](https://www.identityrpg.com/community/uploads/monthly_2018_11/EFC69CFB-1FA9-4D70-B053-CCEC7D033681.gif.adf67eb90892f43e7e8ca08acea00b57.gif)
 ## Features
 - Written in Python3
 - Scan 3 different input
