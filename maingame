@@ -1,0 +1,4 @@
+#!/bin/bash 
+ python3 /usr/share/doc/main_g/main_game.py ${1+"$@"}
+
+
