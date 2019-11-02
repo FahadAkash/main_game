@@ -1,7 +1,7 @@
 # main_game
 Simple Tool That Allow You To Scan Website With Multiple script Best For Beginner's
 
-![](https://sera-brynn.com/wp-content/uploads/2019/06/shutterstock_1173031021.jpg)
+![](https://art.pixilart.com/056b06fa01ec6ec.gif)
 ## Features
 - Written in Python3
 - Scan 3 different input
